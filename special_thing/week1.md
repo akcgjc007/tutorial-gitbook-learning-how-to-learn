@@ -8,11 +8,11 @@
 Simple pinball analogy
 
 - Focused
-    - tight spacing rubber bumpers
-    - prefrontal cortex
+  - tight spacing rubber bumpers
+  - prefrontal cortex
 - Diffused mode
-    - wide spaced rubber bumpers
-    - walking, exercising, etc.
+  - wide spaced rubber bumpers
+  - walking, exercising, etc.
 
 ## Procrastination
 
@@ -34,12 +34,12 @@ A; Many new synapses (connections) are formed on the dendrites.
    - There's as many as 4 chunks of information
    - Working memory is the part of memory that has to do with what you're immediately and consciously processing in your mind.
 2. Long-term memory
-    - long term memory is wide a storage warehouse, and just like a warehouse, it's distributed over a big area. Different kinds of long-term memories are stored in different regions of the brain.
+   - long term memory is wide a storage warehouse, and just like a warehouse, it's distributed over a big area. Different kinds of long-term memories are stored in different regions of the brain.
 
 ## Sleep
 
 - allows the brain to wash away metabolic toxins
-- allows your brain to strengthen important parts of memories even as it erases less important memories 
+- allows your brain to strengthen important parts of memories even as it erases less important memories
 - allows your brain a chance to rehearse difficult material--going over and over the tougher aspects of what you are trying to learn
 - makes a remarkable difference in your ability to figure out difficult problems and to understand what you are trying to learn
 - **Dreaming** - about something helps your ability to understand it
@@ -50,6 +50,6 @@ A; Many new synapses (connections) are formed on the dendrites.
 - **Practice makes permanent** - 4 slots of memory -> with practice -> move to leng-term memory
 - Spaced repetition - is good because it builds stronger neural structures by repeating them over a number of days
 - 2 top methods of learning:
-    - Learning by doing
-    - Learning by osmosis
+  - Learning by doing
+  - Learning by osmosis
 - Success in life reached through passion and persistence
