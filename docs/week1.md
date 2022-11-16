@@ -5,7 +5,7 @@
 1. Focused
 2. Diffused
 
-Simple pinball analogy
+Some random things
 
 - Focused
   - tight spacing rubber bumpers
