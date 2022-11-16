@@ -1,8 +1,0 @@
-{
-  "plugins": ["prism", "-highlight", "katex-pp"],
-  "pluginsConfig": {
-    "prism": {
-      "css": ["prismjs/themes/prism-okaidia.css"]
-    }
-  }
-}
